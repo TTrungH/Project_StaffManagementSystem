@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\study\\cse_443_dotnet_programming\\project_staffmanagementsystem\\staffmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\study\\cse_443_dotnet_programming\\project_staffmanagementsystem\\staffmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T08:21:37.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:21:33.986Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
