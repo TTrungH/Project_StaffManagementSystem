@@ -1,23 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc T\u1EADp\\CSE 443 - DotNet Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\",
+  "WorkspaceRootPath": "D:\\STUDY\\CSE_443_DotNet_Programming\\StaffManagementSystem\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 335,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
