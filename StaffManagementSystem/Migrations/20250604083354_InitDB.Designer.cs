@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace StaffManagementSystem.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250604080505_InitDB")]
+    [Migration("20250604083354_InitDB")]
     partial class InitDB
     {
         /// <inheritdoc />
