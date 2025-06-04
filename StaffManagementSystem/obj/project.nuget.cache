@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tuYG4P1miHk=",
+  "dgSpecHash": "pu+YrY2J7Q0=",
   "success": true,
-  "projectFilePath": "D:\\STUDY\\CSE_443_DotNet_Programming\\StaffManagementSystem\\StaffManagementSystem.csproj",
+  "projectFilePath": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\StaffManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thien\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\thien\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

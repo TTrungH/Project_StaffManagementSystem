@@ -459,3 +459,15 @@ D:\STUDY\CSE_443_DotNet_Programming\StaffManagementSystem\obj\Debug\net8.0\refin
 D:\STUDY\CSE_443_DotNet_Programming\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.pdb
 D:\STUDY\CSE_443_DotNet_Programming\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.genruntimeconfig.cache
 D:\STUDY\CSE_443_DotNet_Programming\StaffManagementSystem\obj\Debug\net8.0\ref\StaffManagementSystem.dll
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.csproj.AssemblyReference.cache
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.AssemblyInfoInputs.cache
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.AssemblyInfo.cs
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.csproj.CoreCompileInputs.cache
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.RazorAssemblyInfo.cache
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.RazorAssemblyInfo.cs
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.sourcelink.json
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.dll
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\refint\StaffManagementSystem.dll
+D:\STUDY\CSE_443_DotNet_Programming\Project_StaffManagementSystem\StaffManagementSystem\obj\Debug\net8.0\StaffManagementSystem.pdb
