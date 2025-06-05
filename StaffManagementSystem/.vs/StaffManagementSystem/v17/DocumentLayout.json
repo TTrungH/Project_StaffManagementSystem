@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalaryController.cs",
+              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "Controllers\\SalaryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:29:18.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:20:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T07:17:48.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
