@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\",
+  "WorkspaceRootPath": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\study\\cse_443_dotnet_programming\\project_staffmanagementsystem\\staffmanagementsystem\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\study\\cse_443_dotnet_programming\\project_staffmanagementsystem\\staffmanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\study\\cse_443_dotnet_programming\\project_staffmanagementsystem\\staffmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\study\\cse_443_dotnet_programming\\project_staffmanagementsystem\\staffmanagementsystem\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\study\\cse_443_dotnet_programming\\project_staffmanagementsystem\\staffmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\eiu\\donet\\project_staffmanagementsystem\\staffmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|d:\\study\\cse_443_dotnet_programming\\project_staffmanagementsystem\\staffmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D7900306-71C9-43BC-8E07-95277B24CC11}|StaffManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -40,61 +40,58 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Views\\Admin\\Index.cshtml",
+              "DocumentMoniker": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
-              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T08:08:23.779Z",
+              "WhenOpened": "2025-06-05T08:10:00.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:08:04.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:08:04.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACkAAAAAAAAAAAAhwDUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T07:58:28.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T07:58:28.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SalaryController.cs",
-              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\SalaryController.cs",
+              "DocumentMoniker": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\SalaryController.cs",
               "RelativeDocumentMoniker": "Controllers\\SalaryController.cs",
-              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\SalaryController.cs",
+              "ToolTip": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Controllers\\SalaryController.cs",
               "RelativeToolTip": "Controllers\\SalaryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T07:29:18.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T07:29:18.149Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Program.cs",
+              "DocumentMoniker": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\Program.cs",
+              "ToolTip": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\appsettings.json",
+              "DocumentMoniker": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

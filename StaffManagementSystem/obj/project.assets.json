@@ -7752,23 +7752,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thuan\\.nuget\\packages\\": {},
+    "C:\\Users\\thien\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\StaffManagementSystem.csproj",
+      "projectUniqueName": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\StaffManagementSystem.csproj",
       "projectName": "StaffManagementSystem",
-      "projectPath": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\StaffManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\thuan\\.nuget\\packages\\",
-      "outputPath": "D:\\EIU\\Donet\\Project_StaffManagementSystem\\StaffManagementSystem\\obj\\",
+      "projectPath": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\StaffManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\thien\\.nuget\\packages\\",
+      "outputPath": "D:\\STUDY\\CSE_443_DotNet_Programming\\Project_StaffManagementSystem\\StaffManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\thuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thien\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7795,7 +7795,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -7845,7 +7845,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
